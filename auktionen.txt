@@ -1,0 +1,6 @@
+[Wed Jul 15 10:46:32 CEST 2015] Gebot von Micky Maus für Turnschuhe: 1.0 Euro.
+[Wed Jul 15 10:46:36 CEST 2015] Gebot von Micky Maus für Turnschuhe: 2.0 Euro.
+[Wed Jul 15 10:46:40 CEST 2015] Gebot von Micky Maus für Turnschuhe: 2.0 Euro.
+[Wed Jul 15 10:46:44 CEST 2015] Gebot von Micky Maus für Turnschuhe: 3.0 Euro.
+[Wed Jul 15 10:46:48 CEST 2015] Gebot von Donald Duck für iPad: 1.0 Euro.
+[Wed Jul 15 10:46:51 CEST 2015] Gebot von Micky Maus für Currywurst: 1.0 Euro.
