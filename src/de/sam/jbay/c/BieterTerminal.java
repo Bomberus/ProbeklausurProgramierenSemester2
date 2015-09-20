@@ -23,8 +23,9 @@ public class BieterTerminal extends JFrame {
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
         this.setLayout(new BorderLayout());
-
-        this.add(new TimeView(), BorderLayout.NORTH);
+        TimeView timeview = new TimeView();
+        timeview.setActive(true);
+        this.add(timeview, BorderLayout.NORTH);
 
         auktionenView = new AuktionenView(bieter);
         this.add(auktionenView);
